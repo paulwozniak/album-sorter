@@ -1,0 +1,1150 @@
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=66ac555bc5745ebe20abdae7cbc40704"></script>
+<!doctype HTML>
+<link rel="shortcut icon" href="http://sv.tinypic.com?ref=qq68e9">
+ 
+<html>
+ 
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+ 
+<meta http-equiv="Content-Style-Type" content="text/css">
+ 
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+ 
+<script type="text/javascript">
+ 
+<!--
+ 
+var namMember = new Array(
+ 
+"Kevin Abstract - MTV1987",
+"Kendrick Lamar - good kid, m.A.A.d city",
+"Slauson Malone - A Quiet Farwell, 2016–2018",
+"Frank Ocean - Blonde",
+"Frank Ocean - channel ORANGE",
+"Chuck Person - Chuck Person's Eccojams Vol. 1",
+"Isaiah Rashad - Cilvia Demo",
+"Frank Ocean - Endless",
+"Death Grips - Exmilitary",
+"Tyler, the Creator - Flower Boy",
+"Nia Archives - Forbidden Feelingz",
+"Cocteau Twins - Heaven or Las Vegas",
+"Yves Tumor - Heaven to a Tortured Mind",
+"Jim Legxacy - Homeless N*gga Pop Music",
+"Erykah Badu - Mama's Gun",
+"SOPHIE - OIL OF EVERY PEARL'S UN-INSIDES",
+"Radiohead - OK Computer",
+"Death Grips - Steroids (Crouching Tiger Hidden Gabber Megamix)",
+"Noname - Telefone",
+"Kanye West - The College Dropout",
+"Solange - TRUE",
+"D'Angelo - Voodoo",
+"Kanye West - Yeezus",
+"The Beach Boys - Pet Sounds",
+"Choker - Mono No Moto",
+"Louis Culture - Smile Soundsystem",
+"Death Grips - Niggas on the Moon: The Powers That B Disc 1",
+"Deftones - White Pony",
+"FKA twigs - LP1",
+"Jawnino - 4040 - Good Thing Bad Thing Who Knows",
+"Kash Krabs - The Krusty Pack",
+"Babyfather - 419",
+"JPEGMAFIA - All My Heroes Are Cornballs",
+"Kevin Abstract - American Boyfriend: A Suburban Love Story",
+"Radiohead - Amnesiac",
+"Solange - A Seat at the Table",
+"Sun Kil Moon - Benji",
+"SpaceGhostPurrp AKA Purrple Haze - Blackland Radio 666: Pt. 2 - Episode 1",
+"D'Angelo and The Vanguard - Black Messiah",
+"Dean Blunt - Black Metal",
+"Britney Spears - Blackout",
+"Death Grips - Bottomless Pit",
+"Tyler, the Creator - Call Me If You Get Lost",
+"Saba - Care for Me",
+"Lil Peep x Lil Tracy - Castles",
+"Ravyn Lenae - Crush",
+"SZA - Ctrl",
+"Rejjie Snow - Dear Annie",
+"Björk - Debut",
+"J Dilla - Donuts",
+"Bladee - Eversince",
+"Bob Marley &amp; The Wailers - Exodus",
+"Justin Timberlake - FutureSex / LoveSounds",
+"Sun Kil Moon - Ghosts of the Great Highway",
+"Bladee - Gluee",
+"death's dynamic shroud.wmv - I'll Try Living Like This",
+"Earl Sweatshirt - I Don't Like Shit, I Don't Go Outside",
+"Drake - If You're Reading This It's Too Late",
+"Kali Uchis - Isolation",
+"Remi Wolf - Juno",
+"Radiohead - Kid A",
+"Kanye West - Late Registration",
+"Lil Uzi Vert - Lil Uzi Vert vs. the World",
+"Madvillain - Madvillainy",
+"Boldy James &amp; Sterling Toles - Manger on McNichols",
+"A Tribe Called Quest - Midnight Marauders",
+"Ravyn Lenae - Moon Shoes",
+"Kanye West - My Beautiful Dark Twisted Fantasy",
+"Michael Jackson - Off the Wall",
+"Vanilla - Origin",
+"Choker - PEAK",
+"Freddie Gibbs &amp; Madlib - Piñata",
+"Jean Dawson - Pixel Bath",
+"Charli XCX - Pop 2",
+"Polo Perks <3 <3 <3 - Punk Goes Drill+**",
+"Ecco2k - PXE",
+"Clams Casino - Rainforest",
+"Oneohtrix Point Never - Replica",
+"The Beatles - Revolver",
+"Travis Scott - Rodeo",
+"BROCKHAMPTON - Saturation",
+"BROCKHAMPTON - Saturation II",
+"BROCKHAMPTON - Saturation III",
+"jinsang - Solitude.",
+"Earl Sweatshirt - Some Rap Songs",
+"Little Simz - Sometimes I Might Be Introvert",
+"Steve Lacy - Steve Lacy's Demo",
+"Yung Lean - Stranger",
+"Death Grips - The Money Store",
+"The Velvet Underground &amp; Nico - The Velvet Underground &amp; Nico",
+"Fiona Apple - Tidal",
+"Kendrick Lamar - To Pimp a Butterfly",
+"Mach-Hommy - Wap Konn Jòj!",
+"Warhol.ss - Warhol 16'",
+"Marvin Gaye - What's Going On",
+"Tyler, the Creator - Wolf",
+"Bladee - Working on Dying",
+"Kanye West - ye",
+"Remi Wolf - You're a Dog!",
+"Tyler, the Creator - Igor",
+"100 gecs - 1000 gecs",
+"A$AP Rocky - LiveLoveA$AP",
+"Arca - KiCk i",
+"Erykah Badu - New Amerykah Part One: 4th World War",
+"Choker - Dog Candy",
+"Choker - Forever &amp; a Few",
+"Louis Culture - When Life Presents Obstacles",
+"Death Grips - No Love Deep Web",
+"Death Grips - The Powers That B",
+"Future - Monster",
+"GoldLink - At What Cost",
+"GZA/Genius - Liquid Swords",
+"KAINA - Sweet Asl.",
+"Kid Cudi - Man on the Moon: The End of Day",
+"Slauson Malone - Vergangenheitsbewältigung (Crater Speak)",
+"MF DOOM - MM..FOOD",
+"Bon Iver - 22, a Million",
+"Jawnino - 40",
+"John Coltrane - A Love Supreme",
+"American Football - American Football",
+"Radiohead - A Moon Shaped Pool",
+"Pink Floyd - Animals",
+"Syringe - Anti-World",
+"OutKast - Aquemini",
+"A$AP Rocky - At.Long.Last.A$AP",
+"Danny Brown - Atrocity Exhibition",
+"Freddie Gibbs &amp; Madlib - Bandana",
+"Young Thug - Barter 6",
+"Vince Staples - Big Fish Theory",
+"Bloodz Boi &amp; Yvncc - Blackheart",
+"Dean Blunt - Black Metal 2",
+"Mos Def - Black on Both Sides",
+"Smino - blkswn",
+"Lana Del Rey - Born to Die",
+"Azealia Banks - Broke With Expensive Taste",
+"Injury Reserve - By the Time I Get to Phoenix",
+"Toro y Moi - Causers of This",
+"Xavier Wulf &amp; Bones - Caves",
+"Tyler, the Creator - Cherry Bomb",
+"Curtis Mayfield - Curtis",
+"Kendrick Lamar - DAMN.",
+"Pusha T - DAYTONA",
+"Slimesito &amp; DJ Phat - Dedication 1",
+"Caroline Polachek - Desire, I Want to Turn Into You",
+"Sade - Diamond Life",
+"Playboi Carti - Die Lit",
+"ICYTWAT - Dior Junts (Deluxe Edition)",
+"Kanye West - Donda",
+"Earl Sweatshirt - Doris",
+"Ski Mask the Slump God - Drown-in-Designer",
+"DJ Shadow - Endtroducing.....",
+"Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)",
+"Lil Uzi Vert - Eternal Atake (Deluxe): LUV vs. the World 2",
+"Bladee - Exeter",
+"Fiona Apple - Extraordinary Machine",
+"Curren$y, Freddie Gibbs &amp; The Alchemist - Fetti",
+"Rx Papi &amp; Gud - Foreign Exchange",
+"LUCKI - Freewave EP",
+"Kanye West - Graduation",
+"PinkPantheress - Heaven Knows",
+"Yung Hi C ^_^ - High the Lon35tarr Mixtape 2016-2017",
+"Saint Pepsi - Hit Vibes",
+"Engelwood - Hotel Wood",
+"The Weeknd - House of Balloons",
+"Nas - Illmatic",
+"Jockstrap - I Love You Jennifer B",
+"Denzel Curry - Imperial",
+"Radiohead - In Rainbows",
+"Neutral Milk Hotel - In the Aeroplane Over the Sea",
+"King Crimson - In the Court of the Crimson King",
+"Marvin Gaye - I Want You",
+"KIDS SEE GHOSTS - KIDS SEE GHOSTS",
+"Miles Davis - Kind of Blue",
+"Still Woozy - Lately",
+"Lil Yachty - Lil Boat",
+"My Bloody Valentine - Loveless",
+"MIKE - May God Bless Your Hustle",
+"Shawny Binladen - Merry Wickmas",
+"Varnish La Piscine - Metronome Pole Dance Twist (Bande originale du film)",
+"Lil Ugly Mane - Mista Thug Isolation",
+"Black Star - Mos Def &amp; Talib Kweli Are Black Star",
+"Kendrick Lamar - Mr. Morale &amp; The Big Steppers",
+"Kweku Collins - Nat Love",
+"Nirvana - Nevermind",
+"Domo Genesis &amp; Alchemist - No Idols",
+"Frank Ocean - Nostalgia, Ultra.",
+"Radiohead - Pablo Honey",
+"Pro Era - PEEP: The aPROcalypse",
+"Playboi Carti - Playboi Carti",
+"Yves Tumor - Praise a Lord Who Chews but Which Does Not Consume; (Or Simply, Hot Between Worlds)",
+"Sampha - Process",
+"SOPHIE - PRODUCT",
+"tomoe_✧theundy1ng - Rare RCB hexD.mp3",
+"Digable Planets - Reachin' (A New Refutation of Time and Space)",
+"Bladee - Red Light",
+"Talking Heads - Remain in Light",
+"Rich Gang - Rich Gang: Tha Tour Part 1",
+"BROCKHAMPTON - Roadrunner: New Light, New Machine",
+"Reptilian Club Boys - #RockOutGang",
+"Noname - Room 25",
+"Mac DeMarco - Salad Days",
+"Tay-K - #SantanaWorld",
+"JPEGMAFIA &amp; Danny Brown - Scaring the Hoes",
+"Kendrick Lamar - Section.80",
+"Kali Uchis - Sin miedo (del amor y otros demonios) ∞",
+"Earl Sweatshirt - Solace",
+"Solange - Sol-Angel and the Hadley St. Dreams",
+"Rae Sremmurd - SremmLife",
+"Nia Archives - Sunrise Bang Ur Head Against tha Wall",
+"Prefab Sprout - Swoon",
+"A$AP Rocky - TESTING",
+"Radiohead - The Bends",
+"Jay-Z - The Black Album",
+"Bladee - The Fool",
+"Mach-Hommy - The G.A.T...",
+"Mobb Deep - The Infamous",
+"Kanye West - The Life of Pablo",
+"Lauryn Hill - The Miseducation of Lauryn Hill",
+"Charles Hamilton - The Pink Lavalamp",
+"The Smiths - The Queen Is Dead",
+"Dean Blunt - The Redeemer",
+"Michael Jackson - Thriller",
+"PinkPantheress - To Hell With It",
+"Thaiboy Digital, Bladee &amp; Ecco2k - Trash Island",
+"Blackstar - Tribute to Haile Selassie I",
+"Car Seat Headrest - Twin Fantasy",
+"Lil Ugly Mane - Uneven Compromise",
+"Burial - Untrue",
+"Vampire Weekend - Vampire Weekend",
+"LazyGod x Cartier'GOD - VaporDrip",
+"Björk - Vespertine",
+"JPEGMAFIA - Veteran",
+"Earl Sweatshirt &amp; The Alchemist - Voir Dire",
+"Charli XCX - Vroom Vroom EP",
+"Yung Lean - Warlord",
+"Weezer - Weezer [Blue Album]",
+"A Tribe Called Quest - We got it from Here… Thank You 4 Your service",
+"Playboi Carti - Whole Lotta Red",
+"Pink Floyd - Wish You Were Here",
+"Raghd - A Good Friend",
+"SpaceGhostPurrp - NASA the Mixtape Underground|Rare",
+"Vampire Weekend - Only God Was Above Us",
+"Zack Villere - Little World",
+"Kanye West - 808s &amp; Heartbreak",
+"Joey Bada$$ - 1999",
+"binki - Motor Function",
+"Choker - Honeybloom",
+"J. Cole - 2014 Forest Hills Drive",
+"J. Cole - 4 Your Eyez Only",
+"D'Angelo - Brown Sugar",
+"Earl Sweatshirt - Earl",
+"Godspeed You! Black Emperor - Lift Yr. Skinny Fists Like Antennas to Heaven!",
+"Gorillaz - Gorillaz",
+"Jay-Z - Reasonable Doubt",
+"Jeremih - Late Nights: The Album",
+"Kendrick Lamar - untitled unmastered.",
+"Lil Uzi Vert - Eternal Atake",
+"100 gecs - 100 gecs",
+"$PIRIT GURLZ - 0,508333333333333",
+"Taylor Swift - 1989",
+"Bladee - 333",
+"MIKE - &#34;Disco!&#34;",
+"Future &amp; DJ Esco - 56 Nights",
+"Lil Nas X - 7",
+"The Beatles - Abbey Road",
+"Fred again.. - Actual Life (April 14 – December 17 2020)",
+"Freddie Gibbs &amp; The Alchemist - Alfredo",
+"BROCKHAMPTON - All-American Trash",
+"CHANCE デラソウル [Chance de la Soul] - All Together Now!",
+"Chief Keef - Almighty So",
+"Knucks - Alpha Place",
+"Feed Me Jack - Anatolia",
+"Steve Lacy - Apollo XXI",
+"Deftones - Around the Fur",
+"James Blake - Assume Form",
+"Travis Scott - Astroworld",
+"OutKast - ATLiens",
+"Chief Keef - Back From the Dead",
+"Joanne Robertson &amp; Dean Blunt - Backstage Raver",
+"Amy Winehouse - Back to Black",
+"Erykah Badu - Baduizm",
+"Tinashe - BB/ANG3L",
+"Babyfather - BBF Hosted by DJ Escrow",
+"Childish Gambino - Because the Internet",
+"Blu &amp; Exile - Below the Heavens",
+"MIKE - Beware of the Monkey",
+"Fivio Foreign - B.I.B.L.E.",
+"MIKE - Black Soap",
+"Blank Banshee - Blank Banshee 0",
+"Digable Planets - Blowout Comb",
+"SPVCXGHXZTPVRRP (SpaceGhostPurrp) - Blvcklvnd Rvdix 66.6 (1991)",
+"Charli XCX - Brat",
+"Saba - Bucket List Project",
+"Burial - Burial",
+"MIKE - Burning Desire",
+"Contortions - Buy",
+"Zack Villere - Cardboard City",
+"Feed Me Jack - Chumpfrey",
+"Mac Miller - Circles",
+"Lil Peep - Come Over When You're Sober, Pt. 1",
+"Liv.e - Couldn't Wait to Tell You...",
+"Divine Council - Council World",
+"RXKNephew - Crack Therapy 3",
+"Blood Orange - Cupid Deluxe",
+"SpaceGhostPurrp - Dark Angels",
+"Lil Wayne - Dedication 2: Gangsta Grillz",
+"Deltron 3030 - Deltron 3030",
+"Diamonds on My Dic x High Cee - Demons n Tokyo tha Movie",
+"Baby Keem - Die for My Bitch",
+"RealYungPhil &amp; Evilgiane - Dr. Phil",
+"Future - DS2",
+"Emily Montes - Emily Montes",
+"Carly Rae Jepsen - E·MO·TION",
+"Xhris2Eazy - Evil Ambition",
+"MIKE, Wiki &amp; The Alchemist - Faith Is a Rock",
+"Earl Sweatshirt - Feet of Clay",
+"Chief Keef - Finally Rich",
+"Hodgy - Fireplace: TheNotTheOtherSide",
+"Macintosh Plus - Floral Shoppe",
+"For Those I Love - For Those I Love",
+"Blood Orange - Freetown Sound",
+"LUCKI - Freewave II",
+"Limes - Fresh Squeezed",
+"piri &amp; tommy - froge.mp3",
+"Calvin Harris - Funk Wav Bounces Vol. 1",
+"Steve Lacy - Gemini Rights",
+"BROCKHAMPTON - Ginger",
+"Death Grips - Government Plates",
+"Jeff Buckley - Grace",
+"Little Simz - GREY Area",
+"Gravity Boys - GTBSG",
+"Mach-Hommy - HBO (Haitian Body Odor)",
+"5G - Hello 5G!!!",
+"Kate Bush - Hounds of Love",
+"Ravyn Lenae - Hypnos",
+"Remi Wolf - I'm Allergic to Dogs!",
+"Bladee - Icedancer",
+"Still Woozy - If This Isn’t Nice, I Don’t Know What Is",
+"Clairo - Immunity",
+"Elvis Costello and The Attractions - Imperial Bedroom",
+"Pharrell - In My Mind",
+"The Strokes - Is This It",
+"Pusha T - It's Almost Dry",
+"XXXTENTACION - ItWasntEnough",
+"Kanye West - JESUS IS KING",
+"Japanese Breakfast - Jubilee",
+"Miguel - Kaleidoscope Dream",
+"Jai Paul - Leak 04-13 (Bait Ones)",
+"Lil Yachty - Let's Start Here.",
+"Mavi - Let the Sun Talk",
+"A$AP Rocky - Long.Live.A$AP",
+"JPEGMAFIA - LP!",
+"Lil Uzi Vert - Luv Is Rage",
+"Lil Uzi Vert - Luv Is Rage 2",
+"Marjorie -W.C. Sinclair - Marjorie -W.C. Sinclair",
+"Pop Smoke - Meet the Woo, Vol. 2",
+"Magdalena Bay - Mercurial World",
+"Vampire Weekend - Modern Vampires of the City",
+"Van Morrison - Moondance",
+"Dean Blunt - Muggy Vol.1",
+"John Coltrane - My Favorite Things",
+"$uicideboy$ - My Liver Will Handle What My Heart Can't",
+"Blood Orange - Negro Swan",
+"Erykah Badu - New Amerykah Part Two: Return of the Ankh",
+"redveil - Niagara",
+"Snow Strippers - Night Killaz Vol. 1",
+"Young Thug - No, My Name Is Jeffery",
+"Charli XCX - Number 1 Angel",
+"MF DOOM - Operation: Doomsday",
+"Notion - Outsider",
+"Kendrick Lamar - Overly Dedicated",
+"Caroline Polachek - Pang",
+"Andy Stott - Passed Me By",
+"Yung Lean - Poison Ivy",
+"Kali Uchis - Por vida",
+"Mach-Hommy - Pray for Haiti",
+"Rage Against the Machine - Rage Against the Machine",
+"At the Drive-In - Relationship of Command",
+"Reptilian Club Boyz - ReptilianClubBoyz Bizzare Adventure Vol. 1",
+"Bladee - Rip Bladee",
+"Sega Bodega - Romeo",
+"Yves Tumor - Safe in the Hands of Love",
+"Aphex Twin - Selected Ambient Works 85-92",
+"Billy Lemos - Self",
+"Earl Sweatshirt - SICK!",
+"Slayyyter - Slayyyter",
+"Dean Blunt - Soul on Fire",
+"Slowdive - Souvlaki",
+"boy pablo - Soy Pablo",
+"Yung Lean - Starz",
+"Prefab Sprout - Steve McQueen",
+"YT - #STILLSWAGGIN",
+"Black Thought - Streams of Thought, Vol. 1",
+"Noname - Sundial",
+"Onoe Caponoe - Surf or Die",
+"King Geedorah - Take Me to Your Leader",
+"Taylor Swift - Taylor Swift",
+"Jay-Z - The Blueprint",
+"Pink Floyd - The Dark Side of the Moon",
+"Isaiah Rashad - The House Is Burning",
+"Pi'erre Bourne - The Life of Pi'erre 4",
+"A Tribe Called Quest - The Low End Theory",
+"Baby Keem - The Melodic Blue",
+"Dean Blunt - The Narcissist II",
+"Lil Uzi Vert - The Perfect Luv Tape®️",
+"Isaiah Rashad - The Sun's Tirade",
+"Mac DeMarco - This Old Dog",
+"octi &amp;  Euro - ToonTown",
+"Alex G - Trick",
+"Eartheater - Trinity",
+"Yung Lean - Unknown Death 2002",
+"Yeat - Up 2 Më",
+"LUCKI - Watch My Back",
+"Jay-Z &amp; Kanye West - Watch the Throne",
+"Weiland - Weiland",
+"Solange - When I Get Home",
+"Fiona Apple - When the Pawn",
+"Warhol.ss - Where's Warhol?",
+"Shawny Binladen - Wickipedia",
+"Shawny Binladen - Wickipedia (Deluxe)",
+"MIKE - Winter New York",
+"Danny Brown - XXX",
+"Kanye West - Yandhi",
+"Death Grips - Year of the Snitch",
+"SZA - Z",
+"Thaiboy Digital - ส (Tiger)",
+"2814 - 新しい日の誕生 (Atarashii hi no tanjō)",
+"The Notorious B.I.G. - Ready to Die",
+"ODD EYE CIRCLE - Max &amp; Match",
+"Cosmo Pyke - Just Cosmo",
+"Raveena - Shanti",
+"Saba - Few Good Things",
+"The Smiths - Hatful of Hollow",
+"Rejjie Snow - Rejovich",
+"Gucci Mane - Trap House 3",
+"James Brown - 'Live' at the Apollo",
+"Macabre Unit - 6 Feet Below Sound 2: Buried Alive",
+"Ken Carson - A Great Chaos",
+"Jorge Ben - A Tábua de Esmeralda",
+"Delroy Edwards - Can U Get With",
+"Tirzah - Devotion",
+"DJ Rashad - Double Cup",
+"Roberta Flack - Feel Like Makin' Love",
+"Sky Ferreira - Ghost",
+"xaviersobased - Install",
+"Nelly Furtado - Loose",
+"Lorde - Pure Heroine",
+"Mustafa - When Smoke Rises"
+ 
+ 
+);
+ 
+ 
+ 
+//*********************************************************
+ 
+ 
+ 
+var lstMember = new Array();
+ 
+var parent = new Array();
+ 
+var equal = new Array();
+ 
+var rec = new Array();
+ 
+var cmp1,cmp2;
+ 
+var head1,head2;
+ 
+var nrec;
+ 
+ 
+ 
+var numQuestion;
+ 
+var totalSize;
+ 
+var finishSize;
+ 
+var finishFlag;
+ 
+ 
+ 
+//The initialization of the variable+++++++++++++++++++++++++++++++++++++++++++++
+ 
+function initList(){
+ 
+var n = 0;
+ 
+var mid;
+ 
+var i;
+ 
+ 
+ 
+//The sequence that you should sort
+ 
+lstMember[n] = new Array();
+ 
+for (i=0; i<namMember.length; i++) {
+ 
+lstMember[n][i] = i;
+ 
+}
+ 
+parent[n] = -1;
+ 
+totalSize = 0;
+ 
+n++;
+ 
+ 
+ 
+for (i=0; i<lstMember.length; i++) {
+ 
+//And element divides it in two/more than two
+ 
+//Increase divided sequence of last in first member
+ 
+if(lstMember[i].length>=2) {
+ 
+mid = Math.ceil(lstMember[i].length/2);
+ 
+lstMember[n] = new Array();
+ 
+lstMember[n] = lstMember[i].slice(0,mid);
+ 
+totalSize += lstMember[n].length;
+ 
+parent[n] = i;
+ 
+n++;
+ 
+lstMember[n] = new Array();
+ 
+lstMember[n] = lstMember[i].slice(mid,lstMember[i].length);
+ 
+totalSize += lstMember[n].length;
+ 
+parent[n] = i;
+ 
+n++;
+ 
+}
+ 
+}
+ 
+ 
+ 
+//Preserve this sequence
+ 
+for (i=0; i<namMember.length; i++) {
+ 
+rec[i] = 0;
+ 
+}
+ 
+nrec = 0;
+ 
+ 
+ 
+//List that keeps your results
+ 
+//Value of link initial
+ 
+// Value of link initial
+ 
+for (i=0; i<=namMember.length; i++) {
+ 
+equal[i] = -1;
+ 
+}
+ 
+ 
+ 
+cmp1 = lstMember.length-2;
+ 
+cmp2 = lstMember.length-1;
+ 
+head1 = 0;
+ 
+head2 = 0;
+ 
+numQuestion = 1;
+ 
+finishSize = 0;
+ 
+finishFlag = 0;
+ 
+}
+ 
+ 
+ 
+//&#12522;&#12473;&#12488;&#12398;&#12477;&#12540;&#12488;+++++++++++++++++++++++++++++++++++++++++++
+ 
+//flag&#65306;Don't know characters
+ 
+// -1&#65306;Chose the left
+ 
+// 0&#65306;Tie
+ 
+// 1&#65306;Chose the right
+ 
+function sortList(flag){
+ 
+var i;
+ 
+var str;
+ 
+ 
+ 
+//rec preservation
+ 
+if (flag<0) {
+ 
+rec[nrec] = lstMember[cmp1][head1];
+ 
+head1++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+while (equal[rec[nrec-1]]!=-1) {
+ 
+rec[nrec] = lstMember[cmp1][head1];
+ 
+head1++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+}
+ 
+else if (flag>0) {
+ 
+rec[nrec] = lstMember[cmp2][head2];
+ 
+head2++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+while (equal[rec[nrec-1]]!=-1) {
+ 
+rec[nrec] = lstMember[cmp2][head2];
+ 
+head2++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+}
+ 
+else {
+ 
+rec[nrec] = lstMember[cmp1][head1];
+ 
+head1++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+while (equal[rec[nrec-1]]!=-1) {
+ 
+rec[nrec] = lstMember[cmp1][head1];
+ 
+head1++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+equal[rec[nrec-1]] = lstMember[cmp2][head2];
+ 
+rec[nrec] = lstMember[cmp2][head2];
+ 
+head2++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+while (equal[rec[nrec-1]]!=-1) {
+ 
+rec[nrec] = lstMember[cmp2][head2];
+ 
+head2++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+}
+ 
+ 
+ 
+//Processing after finishing with one list
+ 
+if (head1<lstMember[cmp1].length && head2==lstMember[cmp2].length) {
+ 
+//List the remainder of cmp2 copies, list cmp1 copies when finished scanning
+ 
+while (head1<lstMember[cmp1].length){
+ 
+rec[nrec] = lstMember[cmp1][head1];
+ 
+head1++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+}
+ 
+else if (head1==lstMember[cmp1].length && head2<lstMember[cmp2].length) {
+ 
+//List the remainder of cmp1 copies, list cmp2 copies when finished scanning
+ 
+while (head2<lstMember[cmp2].length){
+ 
+rec[nrec] = lstMember[cmp2][head2];
+ 
+head2++;
+ 
+nrec++;
+ 
+finishSize++;
+ 
+}
+ 
+}
+ 
+ 
+ 
+//When it arrives at the end of both lists
+ 
+//Update a pro list
+ 
+if (head1==lstMember[cmp1].length && head2==lstMember[cmp2].length) {
+ 
+for (i=0; i<lstMember[cmp1].length+lstMember[cmp2].length; i++) {
+ 
+lstMember[parent[cmp1]][i] = rec[i];
+ 
+}
+ 
+lstMember.pop();
+ 
+lstMember.pop();
+ 
+cmp1 = cmp1-2;
+ 
+cmp2 = cmp2-2;
+ 
+head1 = 0;
+ 
+head2 = 0;
+ 
+ 
+ 
+//Initialize the rec before performing the new comparison
+ 
+if (head1==0 && head2==0) {
+ 
+for (i=0; i<namMember.length; i++) {
+ 
+rec[i] = 0;
+ 
+}
+ 
+nrec = 0;
+ 
+}
+ 
+}
+ 
+ 
+ 
+if (cmp1<0) {
+ 
+str = "battle #"+(numQuestion-1)+"<br>"+Math.floor(finishSize*100/totalSize)+"% sorted.";
+ 
+document.getElementById("battleNumber").innerHTML = str;
+ 
+ 
+ 
+showResult();
+ 
+finishFlag = 1;
+ 
+}
+ 
+else {
+ 
+showImage();
+ 
+}
+ 
+}
+ 
+ 
+ 
+//The results+++++++++++++++++++++++++++++++++++++++++++++++
+ 
+//&#38918;&#20301;=Rank/Grade/Position/Standing/Status
+ 
+//&#21517;&#21069;=Identification term
+ 
+function showResult() {
+ 
+var ranking = 1;
+ 
+var sameRank = 1;
+ 
+var str = "";
+ 
+var i;
+ 
+ 
+ 
+str += "<table style=\"width:200px; font-size:18px; line-height:120%; margin-left:auto; margin-right:auto; border:1px solid #000; border-collapse:collapse\" align=\"center\">";
+ 
+str += "<tr><td style=\"color:#ffffff; background-color:#e097d9; text-align:center;\">rank<\/td><td style=\"color:#ffffff; background-color:#e097d9; text-align:center;\">options<\/td><\/tr>";
+ 
+ 
+ 
+for (i=0; i<namMember.length; i++) {
+ 
+str += "<tr><td style=\"border:1px solid #000; text-align:center; padding-right:5px;\">"+ranking+"<\/td><td style=\"border:1px solid #000; padding-left:5px;\">"+namMember[lstMember[0][i]]+"<\/td><\/tr>";
+ 
+if (i<namMember.length-1) {
+ 
+if (equal[lstMember[0][i]]==lstMember[0][i+1]) {
+ 
+sameRank++;
+ 
+} else {
+ 
+ranking += sameRank;
+ 
+sameRank = 1;
+ 
+}
+ 
+}
+ 
+}
+ 
+str += "<\/table>";
+ 
+ 
+ 
+document.getElementById("resultField").innerHTML = str;
+ 
+}
+ 
+ 
+ 
+//Indicates two elements to compare+++++++++++++++++++++++++++++++++++
+ 
+function showImage() {
+ 
+var str0 = "battle #"+numQuestion+"<br>"+Math.floor(finishSize*100/totalSize)+"% sorted.";
+ 
+var str1 = ""+toNameFace(lstMember[cmp1][head1]);
+ 
+var str2 = ""+toNameFace(lstMember[cmp2][head2]);
+ 
+ 
+ 
+document.getElementById("battleNumber").innerHTML = str0;
+ 
+document.getElementById("leftField").innerHTML = str1;
+ 
+document.getElementById("rightField").innerHTML = str2;
+ 
+ 
+ 
+numQuestion++;
+ 
+}
+ 
+ 
+ 
+//Convert numeric value into a name (emoticon)+++++++++++++++++++++++++++++++
+ 
+function toNameFace(n){
+ 
+var str = namMember[n];
+ 
+ 
+ 
+/*
+ 
+str += '<br />';
+ 
+switch(n) {
+ 
+//case -1 Because it is a sample, delete it
+ 
+case -1: str+=""; break;
+ 
+}*/
+ 
+return str;
+ 
+}
+ 
+//-->
+ 
+</script>
+ 
+<style type="text/css">
+ 
+<!--
+ 
+#mainTable{
+ 
+font-size: 19px;
+ 
+font-family: 'Times New Roman', serif;
+ 
+text-align: center;
+ 
+vertical-align: middle;
+ 
+width: 410px;
+ 
+margin-left: auto;
+ 
+margin-right: auto;
+ 
+border-collapse: separate;
+ 
+border-spacing: 10px 5px;
+ 
+}
+ 
+#leftField{
+ 
+width: 120px;
+ 
+height: 150px;
+ 
+border: 1px solid #000;
+ 
+cursor: pointer;
+ 
+}
+ 
+#rightField{
+ 
+width: 120px;
+ 
+height: 150px;
+ 
+border: 1px solid #000;
+ 
+cursor: pointer;
+ 
+}
+ 
+.middleField{
+ 
+width: 120px;
+ 
+height: 70px;
+ 
+border: 1px solid #000;
+ 
+cursor: pointer;
+ 
+}
+ 
+a{
+ 
+color: #e097d9;
+ 
+text-decoration : none;
+ 
+}
+ 
+a:hover{
+ 
+color: #8f8f8f;
+ 
+}
+ 
+body {
+ 
+width: 600px;
+ 
+margin: 0 auto;
+ 
+font-family: 'Times New Roman', erif;
+ 
+}
+ 
+-->
+ 
+</style>
+ 
+ 
+<!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="" /><meta property="og:title" content="Not Found" /><meta property="og:url" content="" /><meta property="og:description" content="The URL you requested could not be found." /><meta property="og:determiner" content="a" /><meta property="og:type" content="tumblr-feed:entry" /><meta property="og:image" content="http://assets.tumblr.com/images/og/text_200.png" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS -->
+ 
+ 
+<!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:card" content="summary" /><meta name="twitter:description" content="The URL you requested could not be found." /><meta name="twitter:title" content="Not Found" /><meta name="twitter:url" content="" /><meta name="twitter:site" content="tumblr" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=roosterteethcs&amp;postID=&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=roosterteethcs&amp;postID=&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=roosterteethcs&amp;postID=&amp;referrer=twitter-cards" />
+ 
+<script src="http://assets.tumblr.com/assets/scripts/tumblelog.js?_v=a9e2d0b0ade5958a1a2a936adf448061"></script>
+<meta http-equiv="x-dns-prefetch-control" content="off"/>
+</head>
+<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:600' rel='stylesheet' type='text/css'>
+ 
+<body text="#000000" bgcolor="#ffffff" link="#e097d9" vlink="#e097d9" alink="#79a2c9">
+ 
+ 
+ 
+<p class="instructions">
+<center><br /><br />
+<b>SORTER NAME</b><br /><br>pick who you like better in each battle to get an accurate list of your<br />favorite members from the group.<br />note: hitting 'no opinion' or 'I like both' frequently will negatively affect your results.<br /><br /></center>
+ 
+ 
+ 
+</p>
+ 
+ 
+ 
+<table id="mainTable" align="center">
+ 
+<tbody><tr>
+ 
+<td id="battleNumber" colspan="3" style="padding-bottom: 10px;" style="text-align:center;"><b>battle #1<br>0% sorted.</b></td>
+ 
+</tr>
+ 
+<tr>
+ 
+<td id="leftField" onclick="if(finishFlag==0) sortList(-1);" rowspan="2" style="text-align:center;"></td>
+ 
+<td class="middleField" onclick="if(finishFlag==0) sortList(0);" style="text-align:center;">
+ 
+I like both
+ 
+</td>
+ 
+<td id="rightField" onclick="if(finishFlag==0) sortList(1);" rowspan="2"style="text-align:center;"></td>
+ 
+</tr>
+ 
+<tr>
+ 
+<td class="middleField" onclick="if(finishFlag==0) sortList(0);"style="text-align:center;">
+ 
+no opinion
+ 
+</td>
+ 
+</tr>
+ 
+</tbody></table>
+ 
+<br><br>
+ 
+<div id="resultField" style="text-align: center;">
+ 
+<br>
+ 
+</div>
+ 
+<script type="text/javascript">
+ 
+<!--
+ 
+initList();
+ 
+showImage();
+ 
+//-->
+ 
+ 
+</script>
+<p class="other">
+<center><small><br /><br />used with permission.<br /><br/><a href="http://biasorter.tumblr.com/">created by biasorter</a>.
+</small></center></small>
+</p>
+ 
+<!-- BEGIN TUMBLR CODE --><iframe id="tumblr_controls" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute; z-index:2147483647; top:0; right:0; border:0; background-color:transparent; overflow:hidden; " src="http://assets.tumblr.com/assets/html/iframe/o.html?_v=dddebe193046ef922006b33d60687b05#src=http%3A%2F%2Froosterteethcs.tumblr.com%2Fask&amp;lang=en_US&amp;name=roosterteethcs&amp;avatar=http%3A%2F%2Fassets.tumblr.com%2Fimages%2Fdefault_avatar%2Fpyramid_open_64.png&amp;title=rt+character+sorter&amp;url=http%3A%2F%2Froosterteethcs.tumblr.com%2F&amp;page_slide=slide"></iframe><div id="teaser_iframe_container" style="display:none;"><iframe scrolling="no" frameborder="0" src="http://www.tumblr.com/assets/html/iframe/teaser.html?_v=0334cdd0135fa4ea13587cd37c2dcf98#src=http%3A%2F%2Froosterteethcs.tumblr.com%2Fask&amp;lang=en_US&amp;name=roosterteethcs&amp;avatar=http%3A%2F%2Fassets.tumblr.com%2Fimages%2Fdefault_avatar%2Fpyramid_open_64.png&amp;title=rt+character+sorter&amp;url=http%3A%2F%2Froosterteethcs.tumblr.com%2F&amp;page_slide=slide" id="teaser_iframe" width="1" height="1"></iframe></div><!--[if IE]><script type="text/javascript">document.getElementById('tumblr_controls').allowTransparency=true;</script><![endif]--><iframe onload="javascript:this.contentWindow.postMessage(['tick_google_analytics', '/ask?route=404_page'].join(';'), this.src.split('/analytics.html')[0]);  COMSCORE = true;this.contentWindow.postMessage('enable_comscore;' + window.location, this.src.split('/analytics.html')[0]);" src="http://assets.tumblr.com/analytics.html?9bbb9e7732da937858cd0531689c20b1" scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0 z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+      var _qevents = _qevents || [];
+ 
+      (function() {
+       var elem = document.createElement('script');
+ 
+       elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+       elem.async = true;
+       elem.type = "text/javascript";
+       var scpt = document.getElementsByTagName('script')[0];
+       scpt.parentNode.insertBefore(elem, scpt);
+      })();
+    </script><script type="text/javascript">
+        _qevents.push( { qacct: 'p-19UtqE8ngoZbM' } );
+    </script><noscript><div style="display: none;"><img src="//pixel.quantserve.com/pixel/'p-19UtqE8ngoZbM'.gif" height="1" width="1" alt="Quantcast"/></div></noscript><script type="text/javascript">!function(s){s.src='http://www.tumblr.com/impixu?T=1389854658&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvcm9vc3RlcnRlZXRoY3MudHVtYmxyLmNvbVwvYXNrIiwicmVxdHlwZSI6MCwicm91dGUiOiI0MDRfcGFnZSJ9&U=GJPMNFPHIN&K=745811f0e9615242e744b26218c2e56a6c6b184a1315e6c9e9e871a0c242e3ab&R=http%3A%2F%2Froosterteethcs.tumblr.com%2F'.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="http://www.tumblr.com/impixu?T=1389854658&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvcm9vc3RlcnRlZXRoY3MudHVtYmxyLmNvbVwvYXNrIiwicmVxdHlwZSI6MCwicm91dGUiOiI0MDRfcGFnZSIsIm5vc2NyaXB0IjoxfQ==&U=GJPMNFPHIN&K=c7a8ec33be24dcae3b08d0ffc26af0508ef65362a18101b8963123d054b7f79e&R=http%3A%2F%2Froosterteethcs.tumblr.com%2F"></noscript><script type="text/javascript" src="http://l.yimg.com/ss/rapid-3.9.js"></script><script>
+                    (function(YAHOO) {
+                        if (YAHOO) {
+                            YAHOO.i13n.beacon_server = 'nol.yahoo.com';
+                            var keys = { pd:'404_page', _li:0, i_rad:0, i_strm:0 };
+                            YAHOO.rapid = new YAHOO.i13n.Rapid({spaceid:1197719233, oo:1, client_only:1, yql_enabled:false, keys:keys});
+                        }
+                    })(window.YAHOO);
+                </script><!-- END TUMBLR CODE -->
+ 
+</body>
+ 
+</html>
